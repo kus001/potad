@@ -27,3 +27,8 @@ Here is what I am at right now; I'm adding the diodes along the way (another rea
 <img width="2217" height="701" alt="image" src="https://github.com/user-attachments/assets/622ff35a-1510-460e-bc2b-3bcf25060a7a" />
 
 Honestly, going back and fixing the mistakes would take a lot longer than if I just started from the beginning and then did it!
+
+#### 2026/11/07 
+The actual layout of the keyboard schematic is a lot better now!
+
+<img width="1457" height="722" alt="image" src="https://github.com/user-attachments/assets/cd90482b-ab55-48f1-bed9-565aff619781" />
