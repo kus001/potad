@@ -32,3 +32,8 @@ Honestly, going back and fixing the mistakes would take a lot longer than if I j
 The actual layout of the keyboard schematic is a lot better now!
 
 <img width="1457" height="722" alt="image" src="https://github.com/user-attachments/assets/cd90482b-ab55-48f1-bed9-565aff619781" />
+
+#### 2026/11/07
+Okay, finally, I can say that the keyboard schematic has now been connected to the RP2040. I also added no-connects to the RP2040 just for now. 
+
+<img width="1997" height="755" alt="image" src="https://github.com/user-attachments/assets/414e5986-ece0-4321-892a-94d84d7c5fc4" />
