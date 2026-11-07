@@ -17,7 +17,7 @@ After that, I worked on adding net values to the columns and rows, and that's ho
 
 ALSO, this is my first time working in KiCad, coming over from EasyEDA so within this session, I had to do learn how to use KiCad and learn its shortcuts, etc. I've gotta say, though, I'm starting to get the hang of KiCad now!!
 
-#### 2026/11/07
+#### 2026/11/07 (0.9 hrs)
 Worked on cleaning up the schematic again.
 
 Honestly, I found a few too many mistakes in the schematic, so I figured I'd redo the schematic cleanly. This session, I tried to connect the columns, but some columns were misaligned, and some connections weren't done, so I figured I'd start from scratch and do it in a clean, grid-like pattern. 
