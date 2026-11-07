@@ -1,4 +1,18 @@
 # Journal.md
 
-#### 2026/11/06
+#### 2026/11/06 (0.9 hrs)
 Worked on cleaning up the keyboard schematic. 
+
+AT the beginning of this, the schematic looked a bit messy. 
+
+<img width="2231" height="792" alt="image" src="https://github.com/user-attachments/assets/6841e309-b7a3-4132-947b-0ff09257f243" />
+
+There were no net values (hence why the schematic look like a bunch of spaghetti), and there were no diodes in the keyboard (there were supposed to be). 
+
+For the first little bit, I actually had to understand how this keyboard schematic worked because I had not built a project like this in the past. So, I found a great [doc](https://keeb.hackclub.com/docs/pcb-design/) that helped me really understand how this works. 
+
+After that, I worked on adding net values to the columns and rows, and that's honestly about it for today. Here is my current progress:
+
+<img width="1927" height="782" alt="image" src="https://github.com/user-attachments/assets/e662d520-a8da-44e0-ba1d-91de704d77ce" />
+
+ALSO, this is my first time working in KiCad, coming over from EasyEDA so within this session, I had to do learn how to use KiCad and learn its shortcuts, etc. I've gotta say though, I'm starting to get the hang of KiCad now!!
