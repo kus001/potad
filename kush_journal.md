@@ -65,5 +65,13 @@ But in the end, here is what a part of the footprints looks like:
 <img width="3434" height="1190" alt="image" src="https://github.com/user-attachments/assets/5e7cd760-c751-41f8-b814-bc1d7ccdb0f3" />
 
 #### 2026/11/08
-Today (and a bit of last night), I converted my schematic into a pcb and started arranging the switches for our keyboard. By now, I have completed the first row of the main (middle) keyboard. 
+Today (and a bit of last night), I converted my schematic into a PCB and started arranging the switches for our keyboard. By now, I have completed the first row of the main (middle) keyboard.
+
 <img width="1196" height="679" alt="image" src="https://github.com/user-attachments/assets/24895c29-63c5-4abd-a29b-3cd3ce9fae3f" />
+
+#### 2026/11/08
+Okayyyyy, row 2 has been placed onto the keyboard! 
+
+I had to increase the width of the Edge.cuts layer because the switches+diodes were NOT fitting on the 145mm width. For now, the width has been raised to 152.5mm (I might increase it in the future to add more buffer, because right now everything is super tightly packed). 
+
+<img width="1201" height="687" alt="image" src="https://github.com/user-attachments/assets/bfceb3df-6267-4824-a038-60c51498fcf8" />
