@@ -89,3 +89,13 @@ Here is my current progress btw:
 Row 4 done; only one more left on the big middle board.
 
 <img width="1254" height="711" alt="image" src="https://github.com/user-attachments/assets/38c8f3c2-2387-4f07-8777-9104e51d7aa6" />
+
+#### 2026/11/08
+Row 5 done, now going to work on the 2 smaller parts of the keyboard.
+
+3D:
+<img width="1060" height="618" alt="image" src="https://github.com/user-attachments/assets/3799c9be-73d7-4dcf-9878-fad76b6a0003" />
+
+Pcb:
+<img width="1253" height="706" alt="image" src="https://github.com/user-attachments/assets/bf3fe676-dfe7-42d6-b6bd-65f701468ea7" />
+
