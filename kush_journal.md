@@ -84,3 +84,8 @@ When I compare my software vs. electronic skills, there is definitely a differen
 Here is my current progress btw:
 
 <img width="1199" height="685" alt="image" src="https://github.com/user-attachments/assets/b3ce58da-5dfc-4e4a-b44b-50039864f6d6" />
+
+#### 2026/11/08
+Row 4 done; only one more left on the big middle board.
+
+<img width="1254" height="711" alt="image" src="https://github.com/user-attachments/assets/38c8f3c2-2387-4f07-8777-9104e51d7aa6" />
