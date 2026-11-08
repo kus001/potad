@@ -64,3 +64,6 @@ But in the end, here is what a part of the footprints looks like:
 
 <img width="3434" height="1190" alt="image" src="https://github.com/user-attachments/assets/5e7cd760-c751-41f8-b814-bc1d7ccdb0f3" />
 
+#### 2026/11/08
+Today (and a bit of last night), I converted my schematic into a pcb and started arranging the switches for our keyboard. By now, I have completed the first row of the main (middle) keyboard. 
+<img width="1196" height="679" alt="image" src="https://github.com/user-attachments/assets/24895c29-63c5-4abd-a29b-3cd3ce9fae3f" />
