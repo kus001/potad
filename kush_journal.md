@@ -75,3 +75,12 @@ Okayyyyy, row 2 has been placed onto the keyboard!
 I had to increase the width of the Edge.cuts layer because the switches+diodes were NOT fitting on the 145mm width. For now, the width has been raised to 152.5mm (I might increase it in the future to add more buffer, because right now everything is super tightly packed). 
 
 <img width="1201" height="687" alt="image" src="https://github.com/user-attachments/assets/bfceb3df-6267-4824-a038-60c51498fcf8" />
+
+#### 2026/11/08
+Row 3 done! I have come to the realization that I need to do more electronic hardware projects... 
+
+When I compare my software vs. electronic skills, there is definitely a difference. But anyways, you can get better at anything by practing!
+
+Here is my current progress btw:
+
+<img width="1199" height="685" alt="image" src="https://github.com/user-attachments/assets/b3ce58da-5dfc-4e4a-b44b-50039864f6d6" />
