@@ -34,6 +34,29 @@ The actual layout of the keyboard schematic is a lot better now!
 <img width="1457" height="722" alt="image" src="https://github.com/user-attachments/assets/cd90482b-ab55-48f1-bed9-565aff619781" />
 
 #### 2026/11/07
-Okay, finally, I can say that the keyboard schematic has now been connected to the RP2040. I also added no-connects to the RP2040 just for now. 
+Okay, finally, I can say that the keyboard schematic has now been connected to the RP2040. I also added no-connects to the RP2040 for now. 
 
 <img width="1997" height="755" alt="image" src="https://github.com/user-attachments/assets/414e5986-ece0-4321-892a-94d84d7c5fc4" />
+
+#### 2026/11/07
+Learning something new every entry... 
+
+Anyways, I worked on adding decoupling capacitors, a crystal oscillator, and QUAD SPI flash memory! These things were new to me (aside from decoupling capacitors) so I will try my best to summarize what I learned below ↓↓↓
+
+A crystal oscillator generates a signal that is precise and has a steady frequency. Flash storage is faster than an HDD. A lot of boards already have flash memory built in, but our RP2040 does not have it, so we have to add it ourselves :)
+
+Decoupling Capacitors: 
+<img width="1066" height="149" alt="image" src="https://github.com/user-attachments/assets/de4e951c-a5c9-4225-bb6f-40e9035246ac" />
+
+Crystal Oscillator:
+<img width="278" height="201" alt="image" src="https://github.com/user-attachments/assets/120f8370-6266-464a-afb2-2c08eafc6391" />
+
+Flash Storage:
+<img width="506" height="338" alt="image" src="https://github.com/user-attachments/assets/f0589abf-5330-4ace-9a8d-79051a5ec24a" />
+
+Full schematic:
+<img width="1747" height="670" alt="image" src="https://github.com/user-attachments/assets/97bd4de2-739c-44cc-b82a-deb93ff20676" />
+
+
+
+
