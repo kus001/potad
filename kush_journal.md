@@ -57,6 +57,10 @@ Flash Storage:
 Full schematic:
 <img width="1747" height="670" alt="image" src="https://github.com/user-attachments/assets/97bd4de2-739c-44cc-b82a-deb93ff20676" />
 
+#### 2026/11/07
+Honestly, here I just had a bunch of issues with Footprints in KiCad, which took me a while to figure out. My god, I am starting to notice the major differences between EasyEDA and KiCad. 
 
+But in the end, here is what a part of the footprints looks like:
 
+<img width="3434" height="1190" alt="image" src="https://github.com/user-attachments/assets/5e7cd760-c751-41f8-b814-bc1d7ccdb0f3" />
 
