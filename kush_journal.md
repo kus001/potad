@@ -99,3 +99,11 @@ Row 5 done, now going to work on the 2 smaller parts of the keyboard.
 Pcb:
 <img width="1253" height="706" alt="image" src="https://github.com/user-attachments/assets/bf3fe676-dfe7-42d6-b6bd-65f701468ea7" />
 
+#### 2026/11/08
+Made the 2 smaller boards. This went by so much faster because at this point, I was in the flow-state and had the method figured out.
+
+Here is what the schematic is looking like right now:
+
+<img width="1787" height="606" alt="image" src="https://github.com/user-attachments/assets/d51a8121-0626-4543-9a4b-d02cc192c443" />
+
+<img width="1173" height="353" alt="image" src="https://github.com/user-attachments/assets/0c733449-2481-436f-912d-5ada8f985b7e" />
