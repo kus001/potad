@@ -100,10 +100,37 @@ Pcb:
 <img width="1253" height="706" alt="image" src="https://github.com/user-attachments/assets/bf3fe676-dfe7-42d6-b6bd-65f701468ea7" />
 
 #### 2026/11/08
-Made the 2 smaller boards. This went by so much faster because at this point, I was in the flow-state and had the method figured out.
+Made the 2 smaller boards. This went by so much faster because at this point, I was in the flow state and had the method figured out.
 
 Here is what the schematic is looking like right now:
 
 <img width="1787" height="606" alt="image" src="https://github.com/user-attachments/assets/d51a8121-0626-4543-9a4b-d02cc192c443" />
 
 <img width="1173" height="353" alt="image" src="https://github.com/user-attachments/assets/0c733449-2481-436f-912d-5ada8f985b7e" />
+
+#### 2026/11/08
+Here, I tried to route as much of the keyboard as I could. 
+
+Honestly, I was not very familiar with the power part of POTAD, so I left any power-related routing to my teammates who worked on this project for a lot longer than we (me and Madhav) did. 
+
+But yeah, a majority of the switches and diodes have been connected, the rows have been connected with each other (just missing the ribbon cable, but FlyingFish wants to handle that), and a couple of columns are still left to do. 
+
+##### PCB 2D View
+
+| Function keys | Arrow keys + some more |
+|:---:|:---:|
+| <img width="406" height="804" alt="image" src="https://github.com/user-attachments/assets/a6283754-965d-4649-a1dc-17057a7a5cc2" /> | <img width="597" height="797" alt="image" src="https://github.com/user-attachments/assets/cd2c21b5-f275-4f7e-b5c0-7d0584558a7c" /> |
+
+| Main middle keyboard |
+|:---:|
+| <img width="1548" height="791" alt="image" src="https://github.com/user-attachments/assets/45279f69-076c-4f1d-8056-8287d88076b7" />|
+
+##### PCB 3D View
+
+| Function keys | Arrow keys + some more |
+|:---:|:---:|
+| <img width="244" height="483" alt="image" src="https://github.com/user-attachments/assets/0d38c6b3-e80f-41e0-8e59-aaf8535a7ceb" /> | <img width="355" height="475" alt="image" src="https://github.com/user-attachments/assets/9f7b81bd-f9a4-4769-a4ed-365124fd84d1" /> |
+
+| Main middle keyboard |
+|:---:|
+| <img width="926" height="475" alt="image" src="https://github.com/user-attachments/assets/e0e3c9f4-4476-4916-828b-9b951c01ad68" /> |
